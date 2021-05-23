@@ -1,6 +1,4 @@
 
-
-
 To deploy the model on serverless infrastructure (Cloud Run), execute the below commands
 ------------------------------------------------------------------------------------------
 
